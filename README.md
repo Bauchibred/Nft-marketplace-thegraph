@@ -22,7 +22,7 @@ In it's own terminal / command line, run:
 
 ```
 git clone https://github.com/Bauchibred/Nft-marketplace-thegraph
-cd hardhat-nextjs-nft-marketplace-fcc
+cd Nft-marketplace-thegraph
 yarn
 ```
 
